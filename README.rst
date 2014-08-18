@@ -5,6 +5,6 @@ update_thanks.py is for the gunicorn project.
 
     git log --format="%an <%ae>" | python update_thanks.py
 
-You will get a result.txt file, after that, you can work with the file (update,
+You will get a `result.txt` file, after that, you can work with the file (update,
 remove, ...)
 
